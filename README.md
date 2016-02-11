@@ -1,5 +1,5 @@
 # dotfiles
-A collection of the configuration files marcus-s uses. In here are configs for VIM, awesome (WM), and many others.
+A collection of the configuration files marcus-s uses. In here are configs for VIM, Awesome (WM), and many others.
 
 ## .config/awesome :
 Contains my personal setup for the Awesome 3.5 window manager. Comes with a volume and Pacman widget. This config is tailored specifically to Arch Linux. However, it is possible to easily augmentize it for your needs. Make sure to read through the pages over at http://awesome.naquadah.org .
