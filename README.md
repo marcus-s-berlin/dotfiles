@@ -17,8 +17,16 @@ Of course the last two won't have any effect on normal desktop computers. The so
 
 Further some parts have been split up into smaller .lua files, so that things can be changed more quickly and easily. The files and their contents should be self-explanatory.
 
+There are three buttons on the right, serving as the fast lane for shutdown, reboot, and logout. The user name display is only for decoration and has no effect. You can remove that widget, and/or the buttons, if you so like.
+
 IMPORTANT: Change the folder on line 17 in rc.lua to the home folder location on your computer.
 
+REQUIREMENTS:
+For the rc.lua to work out of the box, you'd need some tools installed. They are as follows.
+
+- Editor: gvim (Graphical version of VIM, install with pacman -S gvim)
+- Terminal: lilyterm (lightweight but feature-rich terminal, install with pacman -S lilyterm)
+- Battery widget: Requires the tool acpi to be installed. Get it with pacman -S acpi
 
 ## .vim :
 Contains my personal plugin setup that I use for my daily editing with VIM. The vimrc file in that folder is the .vimrc file I use which is normally located in the home folder.
