@@ -22,6 +22,7 @@ There are three buttons on the right, serving as the fast lane for shutdown, reb
 **IMPORTANT**: Change the folder on line 17 in rc.lua to the home folder location on your computer.
 
 **NOTE**: Clicking on the Pacman icon, regardless of how many updates there are, will spawn a terminal asking you if you want to run `sudo pacman -Syu`.
+
 **NOTE**: Clicking on either one of the buttons in the top for logout, restart, or shutdown, will have an immediate effect. You are not asked any questions, no prompts will show. **So save your stuff before clicking either one.** Like I said, it's a fastlane service.
 
 ## REQUIREMENTS:
